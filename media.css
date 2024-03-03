@@ -1,0 +1,21 @@
+@media(min-width:320px){
+    .container{
+        width:75%;
+        height: 35vh;
+        left: 16%;
+        
+    }}
+@media(min-width:650px){
+    .container{
+        width:75%;
+        height: 35vh;
+    }
+    }
+    
+    @media(min-width:1000px){
+        .container{
+            width:37%;
+            height: 35vh;
+            left:30%;
+    }
+}
